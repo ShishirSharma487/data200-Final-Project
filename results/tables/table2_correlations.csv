@@ -1,0 +1,13 @@
+outcome,predictor,r,p,spearman,p_spearman,p_holm
+Hypertrophy,Frequency,0.274,0.014,0.266,0.018,0.086
+Hypertrophy,Weekly sets,0.205,0.07,0.215,0.057,0.281
+Hypertrophy,Weeks,0.086,0.452,0.073,0.525,0.904
+Hypertrophy,Age,-0.075,0.509,-0.098,0.389,0.904
+Hypertrophy,% male,-0.197,0.082,-0.127,0.266,0.281
+Hypertrophy,Trained,-0.228,0.043,-0.217,0.054,0.214
+Strength,Frequency,0.212,0.009,0.282,0.0,0.046
+Strength,Weekly sets,-0.093,0.259,-0.04,0.624,0.778
+Strength,Weeks,0.07,0.393,0.17,0.037,0.786
+Strength,Age,0.002,0.981,-0.002,0.981,0.981
+Strength,% male,-0.149,0.068,-0.214,0.009,0.272
+Strength,Trained,-0.376,0.0,-0.362,0.0,0.0
