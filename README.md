@@ -27,3 +27,8 @@ report/                                APA 7 report
 2. `pip install -r requirements.txt`
 3. Notebook: `jupyter notebook`, open `notebooks/DATA200_analysis.ipynb`, then Kernel > Restart and Run All (about 4 minutes; the bootstrap is the slow part).
 4. App (run from this folder, after the notebook has written `data/processed/analysis_groups.csv`): `python -m streamlit run app/app.py`
+
+## Team Work Division
+Navaraj & Shishir - EDA and analysis
+Abdul & Prasanna - App & Final presentation 
+
